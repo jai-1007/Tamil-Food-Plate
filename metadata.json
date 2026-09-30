@@ -1,0 +1,6 @@
+{
+  "name": "Tamil Family Plate Planner",
+  "description": "Bilingual English–Tamil family meal-planning application helping families plan diabetes-friendly Tamil thali meals with elder-specific portion adjustments and cultural recipes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
